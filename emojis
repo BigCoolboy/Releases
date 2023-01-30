@@ -1,0 +1,11 @@
+
+
+while wait() do
+game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🍆  S1LV1A  💦"
+wait(1)
+game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🤪  S1LV1A  🤤"
+wait()
+game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🥵  S1LV1A  🔥"
+wait(1)
+end
+
