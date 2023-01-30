@@ -4,12 +4,13 @@ local mouse = player:GetMouse()
 bind = "q" 
 mouse.KeyDown:connect(function(key)
 if key == bind then
-print("EM VERSION 2LOADED CREATOR USE ONLY")
-game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🍆  S1LV1A  💦"
+
+game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🥵  S1LV1A  🔥"
 wait(1)
 game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🤪  S1LV1A  🤤"
 wait(1)
-game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🥵  S1LV1A  🔥"
+game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🍆  S1LV1A  💦"
 wait(1)
 end
 end)
+
