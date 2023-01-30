@@ -4,7 +4,7 @@ local mouse = player:GetMouse()
 bind = "w" 
 mouse.KeyDown:connect(function(key)
 if key == bind then
-print("EM VERSION 1 LOADED CREATOR USE ONLY"
+print("EM VERSION 1 LOADED CREATOR USE ONLY")
 game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🍆  S1LV1A  💦"
 wait(1)
 game.Players.SwervinInMySilvia.Character.Humanoid.DisplayName = "🤪  S1LV1A  🤤"
